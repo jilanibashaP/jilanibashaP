@@ -15,6 +15,7 @@
 - 📫 How to reach me **pullurujilanibasha@gmail.com**
 
 <p align="left">
+<a href="https://www.linkedin.com/in/jilani-basha-pulluru-238506246/" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/402/997/png-transparent-linkedin-logo-computer-icons-facebook-user-profile-facebook-blue-angle-text.png" alt="https://www.linkedin.com/in/jilani-basha-pulluru-238506246/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
