@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm JILANI Basha</h1>
+<h1 align="center">Hi 👋, I'm Jilani Basha</h1>
 <h3 align="center">A passionate MERN full stack developer from India</h3>
 
 - 🔭 I’m currently working on *Blog App*
