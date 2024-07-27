@@ -6,7 +6,7 @@
 <img src="https://miro.medium.com/proxy/0*hU4zJiyVwWcM0L-w.webp" alt="mern" align="right" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jilanibashaP&label=Profile%20views&color=0e75b6&style=flat" alt="jilanibashaP" /> </p>
 
-- 🌱 I’m currently learning **DSA/C++**
+- 🌱 I’m currently learning **SYSTEM DESIGN**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jilanibashaP](https://github.com/jilanibashaP)
 
