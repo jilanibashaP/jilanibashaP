@@ -1,6 +1,6 @@
 # Hi 👋, I'm Jilani Basha
 
-## 🚀 Senior Full-Stack Developer | 3+ Years Experience
+## 🚀 Full-Stack Developer | 3+ Years Experience
 
 **Passionate about building scalable, high-performance web applications that solve real-world problems.**
 
