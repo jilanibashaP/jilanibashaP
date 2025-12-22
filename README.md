@@ -1,110 +1,83 @@
-# Hi 👋, I'm Jilani Basha
+# Jilani Basha
+**Full-Stack Developer | 3+ Years Experience**
 
-## 🚀 Full-Stack Developer | 3+ Years Experience
+Passionate full-stack developer specializing in building scalable, high-performance web applications. Experienced in designing and maintaining large-scale systems that handle high traffic and complex business requirements.
 
-**Passionate about building scalable, high-performance web applications that solve real-world problems.**
+## 🛠️ Technical Skills
 
-I'm a seasoned full-stack developer with over 3 years of hands-on experience in designing, developing, and maintaining large-scale applications. I specialize in the MERN stack and have a proven track record of delivering robust solutions that handle high traffic and complex business requirements.
+### Frontend
+* React.js, JavaScript (ES6+), HTML5, CSS3
+* Redux, Context API, React Hooks
+* Responsive Design, UI/UX Best Practices
 
-<img src="https://miro.medium.com/proxy/0*hU4zJiyVwWcM0L-w.webp" alt="mern stack" align="right" width="350">
+### Backend
+* Node.js, Express.js, Java, Spring Boot
+* RESTful APIs, Microservices Architecture
+* Spring Security, JWT Authentication
+* API Gateway, Service Discovery
 
-### 🎯 What I Do
+### Database
+* MongoDB, MySQL, **PostgreSQL**
+* Query Optimization, Database Design
 
-- **Full-Stack Development**: End-to-end application development using modern technologies
-- **Large-Scale Systems**: Architecting and implementing applications that handle thousands of concurrent users
-- **Performance Optimization**: Ensuring applications run smoothly under heavy load
-- **Code Quality**: Writing clean, maintainable, and scalable code following best practices
+### DevOps & Cloud
+* **Docker** - Containerization & Orchestration
+* **AWS** - Cloud Infrastructure & Services
+* Git/GitHub, Postman, Figma
+* Maven, Gradle
+* CI/CD Pipelines
 
-### 🔧 Technical Expertise
+### Currently Learning
+* System Design & Distributed Systems
+* Cloud Technologies & Scalability Patterns
 
-**Frontend Development**
-- **React.js** - Advanced component architecture, state management, and performance optimization
-- **JavaScript (ES6+)** - Modern JavaScript features and best practices
-- **HTML5 & CSS3** - Responsive design and modern web standards
-- **UI/UX** - Creating intuitive and engaging user interfaces
+## 💼 Experience Highlights
+✅ 3+ years of professional full-stack development  
+✅ Built and maintained large-scale applications serving thousands of concurrent users  
+✅ Implemented microservices architecture with Spring Boot  
+✅ Developed secure, scalable RESTful APIs  
+✅ Optimized application performance and database queries
 
-**Backend Development**
-- **Node.js & Express.js** - Building robust RESTful APIs and microservices
-- **Database Management** - MongoDB for NoSQL and MySQL for relational data
-- **Authentication & Security** - JWT, OAuth, and secure API design
-- **Performance Optimization** - Caching strategies, query optimization, and load balancing
-
-**Development Tools & Practices**
-- **Version Control** - Git/GitHub for collaborative development
-- **API Testing** - Postman for comprehensive API testing
-- **Design Tools** - Figma for UI/UX design collaboration
-- **System Design** - Currently expanding knowledge in distributed systems architecture
-
-### 💼 Professional Experience
-
-✅ **3+ Years** of professional full-stack development  
-✅ **Large-Scale Applications** - Successfully handled high-traffic production systems  
-✅ **Team Collaboration** - Worked in agile environments with cross-functional teams  
-✅ **Problem Solving** - Delivered innovative solutions for complex technical challenges  
-
-### 🌱 Current Focus
-
-- **System Design** - Diving deep into scalable architecture patterns
-- **Performance Optimization** - Advanced techniques for high-performance applications
-- **Cloud Technologies** - Exploring modern deployment and scaling strategies
-
-### 📊 GitHub Stats
-
+## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jilanibashaP&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jilanibashaP&show_icons=true&theme=radical&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jilanibashaP&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jilanibashaP&show_icons=true&theme=radical&layout=compact" alt="Top Languages" height="165" />
 </div>
 
-### 🛠️ Technology Stack
-
+## 🔧 Tech Stack
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45" />
+</p>
+
+## 📫 Connect With Me
+<p align="center">
+  <a href="mailto:pullurujilanibasha@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50" />
+  <a href="https://www.linkedin.com/in/jilani-basha-pulluru-238506246/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50" />
-  </a>
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="50" height="50" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50" />
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50" />
+  <a href="https://github.com/jilanibashaP">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
-### 🚀 Featured Projects
-
-💼 **[Explore My Portfolio](https://github.com/jilanibashaP)**  
-Check out my repositories to see real-world applications I've built, from e-commerce platforms to social media apps and enterprise solutions.
-
-### 📫 Let's Connect
-
-- **Email**: [pullurujilanibasha@gmail.com](mailto:pullurujilanibasha@gmail.com)
-- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/jilani-basha-pulluru-238506246/)
-- **GitHub**: [Follow my work](https://github.com/jilanibashaP)
-
-### 💡 Open to Opportunities
-
-I'm always interested in challenging projects and opportunities to work on innovative solutions. Whether it's building scalable applications, optimizing performance, or architecting complex systems, I'm ready to contribute my expertise to your team.
-
----
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jilanibashaP&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=jilanibashaP&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <p align="center">
-  <i>⭐ Star my repositories if you find them useful!</i>
+  <i>💡 Open to exciting opportunities and challenging projects!</i>
 </p>
