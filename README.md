@@ -1,5 +1,5 @@
 # Jilani Basha
-**Full-Stack Developer | 3+ Years Experience**
+**Full-Stack Developer**
 
 Passionate full-stack developer specializing in building scalable, high-performance web applications. Experienced in designing and maintaining large-scale systems that handle high traffic and complex business requirements.
 
